@@ -25,7 +25,7 @@ def main():
         for word in wordlist:
             file.write(f"{word}\n")
     
-    print("Word list generated and saved in wordlist.txt")
+    print("Word list generated and saved in wordlist.txt ")
 
 if __name__ == "__main__":
     main()
